@@ -2,7 +2,7 @@
 
 An interactive salary-analytics dashboard built with Streamlit, DuckDB, and Plotly on ~93K tech-salary records.
 
-**Live app:** _[link goes here after deploy]_
+**Live app:** https://salary-insights-dashboard-9obq.streamlit.app/
 
 ## The finding
 
