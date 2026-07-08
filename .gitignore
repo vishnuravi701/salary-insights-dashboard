@@ -4,4 +4,8 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 .DS_Store
+.vscode/
+
+# Ignore stray CSVs, but keep the dataset the app reads at runtime
 *.csv
+!DataScience_salaries_2025.csv
